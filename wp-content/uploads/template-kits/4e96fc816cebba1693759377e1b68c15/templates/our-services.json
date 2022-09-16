@@ -1,0 +1,1270 @@
+{
+    "version": "0.4",
+    "title": "Our Services",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "5272b08",
+            "settings": {
+                "structure": "30",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "-90",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "a15801e"
+                    }
+                ]
+            },
+            "elements": [
+                {
+                    "id": "51c15e9c",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 45.745,
+                        "animation_delay": 500,
+                        "content_position": "center",
+                        "_inline_size_tablet": 100,
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "285bba4"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "4b9bbb4d",
+                            "settings": {
+                                "title": "Our Services",
+                                "header_size": "h1",
+                                "_animation": "fadeIn",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "95d7d78"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3d48727c",
+                            "settings": {
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non est orci. Sed vitae nisl libero.<\/p><p>Ut mi sapien, hendrerit vehicula diam sollicitudin, iaculis commodo augue. Sed feugiat et ligula quis lobortis. Vestibulum condimentum dapibus aliquam. Vivamus sed ante purus. Nullam ac commodo ex.<\/p>",
+                                "_animation": "fadeIn",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "909168c"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "22d5f07e",
+                            "settings": {
+                                "text": "Contact us",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeIn",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "9fec853"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5263133f",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 8.446,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "795c519"
+                            }
+                        ]
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "280bec1c",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 45.272,
+                        "_inline_size_tablet": 100,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "b437f7e"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "42f03b2f",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/beauty-fashion-model-girl-with-bright-makeup.jpg",
+                                    "id": 246
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "700",
+                                    "height": "700"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "motion_fx_motion_fx_scrolling": "yes",
+                                "motion_fx_translateY_effect": "yes",
+                                "motion_fx_translateY_direction": "negative",
+                                "motion_fx_translateY_speed": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "motion_fx_translateY_affectedRange": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": {
+                                        "start": 33,
+                                        "end": 76
+                                    }
+                                },
+                                "_animation": "fadeIn",
+                                "motion_fx_devices": [
+                                    "desktop"
+                                ],
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "a064bfe"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7e557aab",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 105,
+                                    "sizes": []
+                                },
+                                "_z_index": 10,
+                                "motion_fx_motion_fx_scrolling": "yes",
+                                "motion_fx_translateY_effect": "yes",
+                                "motion_fx_translateY_affectedRange": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": {
+                                        "start": 41,
+                                        "end": 68
+                                    }
+                                },
+                                "_background_background": "classic",
+                                "_mask_switch": "yes",
+                                "_mask_shape": "custom",
+                                "_mask_image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/blur.png",
+                                    "id": 206
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": -225,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 432,
+                                    "unit": "px"
+                                },
+                                "__globals__": {
+                                    "_background_color": "globals\/colors?id=accent"
+                                },
+                                "_animation": "fadeIn",
+                                "motion_fx_devices": [
+                                    "desktop"
+                                ],
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "e66bee7"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5d7c0165",
+            "settings": {
+                "structure": "30",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "gap": "wider",
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": ""
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.62,
+                    "sizes": []
+                },
+                "content_width": {
+                    "unit": "px",
+                    "size": 1170,
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "6c9a629"
+                    }
+                ]
+            },
+            "elements": [
+                {
+                    "id": "194cdfb2",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "animation": "fadeIn",
+                        "_inline_size_tablet": 100,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "a8581c4"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "6a732aae",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/portrait-of-young-woman-getting-makeup-done-by-makeup-artist.jpg",
+                                    "id": 243
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "e33f6fe"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5c6618b5",
+                            "settings": {
+                                "title": "Bridal Makeup",
+                                "header_size": "h4",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "0333008"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "549590f9",
+                            "settings": {
+                                "title": "from $299",
+                                "header_size": "h5",
+                                "_animation": "fadeIn",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "3c16b9b"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "19d5413d",
+                            "settings": {
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "editor": "<p>Makeup is not a mask that covers up your beauty; it's a weapon that helps you express who you are.<\/p>",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "b7adb11"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "204b1e5c",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "animation": "fadeIn",
+                        "animation_delay": 200,
+                        "_inline_size_tablet": 100,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "7aee794"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "4e4a9764",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/beautiful-artistic-makeup.jpg",
+                                    "id": 245
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "0ec2862"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "367334ef",
+                            "settings": {
+                                "title": "Cinematic Makeup",
+                                "header_size": "h4",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "e3f1668"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "bb7369c",
+                            "settings": {
+                                "title": "from $399",
+                                "header_size": "h5",
+                                "_animation": "fadeIn",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "327ab3b"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6130883b",
+                            "settings": {
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "editor": "<p>Makeup is not a mask that covers up your beauty; it's a weapon that helps you express who you are.<\/p>",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "e3b784d"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7992fa38",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "animation": "fadeIn",
+                        "animation_delay": 400,
+                        "_inline_size_tablet": 100,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "960cc83"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "1ccc1504",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/side-view-of-part-of-face-of-serious-young-male-fashion-model-with-stage-makeup.jpg",
+                                    "id": 244
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "ac422e6"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "b082358",
+                            "settings": {
+                                "title": "Fashion Makeup",
+                                "header_size": "h4",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "7abe4b5"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "36791350",
+                            "settings": {
+                                "title": "from $199",
+                                "header_size": "h5",
+                                "_animation": "fadeIn",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "3a36fbd"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "556bf6",
+                            "settings": {
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "editor": "<p>Makeup is not a mask that covers up your beauty; it's a weapon that helps you express who you are.<\/p>",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "b43ebfe"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6a4bddc4",
+            "settings": {
+                "structure": "30",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/eyeshadows-makeup-brush-and-falce-lashes-make-up-artist-beauty-salon-beauty-blog.jpg",
+                    "id": 189
+                },
+                "background_position": "center left",
+                "background_size": "cover",
+                "background_motion_fx_motion_fx_scrolling": "yes",
+                "background_motion_fx_scale_effect": "yes",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.95,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=primary"
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "ba2bb33"
+                    }
+                ]
+            },
+            "elements": [
+                {
+                    "id": "20a575a6",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 43.683,
+                        "animation": "fadeIn",
+                        "animation_delay": 200,
+                        "content_position": "center",
+                        "_inline_size_tablet": 100,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "1a8337f"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "379ed548",
+                            "settings": {
+                                "title": "25 years of Experience",
+                                "align": "left",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "27eb6bb"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4b7c729e",
+                            "settings": {
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non est orci. Sed vitae nisl libero.<\/p><p>Ut mi sapien, hendrerit vehicula diam sollicitudin, iaculis commodo augue. Sed feugiat et ligula quis lobortis. Vestibulum condimentum dapibus aliquam. Vivamus sed ante purus. Nullam ac commodo ex.<\/p>",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "7cf45c6"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "340a6d0f",
+                            "settings": {
+                                "structure": "20",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "4927acd"
+                                    }
+                                ]
+                            },
+                            "elements": [
+                                {
+                                    "id": "713ad713",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 49.999,
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "3249180"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1c4247cd",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Bridal makeup",
+                                                        "_id": "2a151dc"
+                                                    },
+                                                    {
+                                                        "text": "Cinematic makeup",
+                                                        "_id": "53d97c7"
+                                                    },
+                                                    {
+                                                        "text": "Fashion makeup",
+                                                        "_id": "e167ffe"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "icon_color": ""
+                                                },
+                                                "icon_color": "#C89313",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "486b8c2"
+                                                    }
+                                                ]
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "5ef9dfab",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 50,
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "a841f22"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "71bed77a",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Fashion makeup",
+                                                        "_id": "e167ffe"
+                                                    },
+                                                    {
+                                                        "text": "Cinematic makeup",
+                                                        "_id": "53d97c7"
+                                                    },
+                                                    {
+                                                        "text": "Bridal makeup",
+                                                        "_id": "2a151dc"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "icon_color": ""
+                                                },
+                                                "icon_color": "#C89313",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "8cff43e"
+                                                    }
+                                                ]
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "11a501ec",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 8.936,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "37dc3cc"
+                            }
+                        ]
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "3ffeab40",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 46.93,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "4e84d8d"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "4f8333a",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/beautyful-girl-with-bright-make-up.jpg",
+                                    "id": 267
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "motion_fx_motion_fx_scrolling": "yes",
+                                "motion_fx_translateY_direction": "negative",
+                                "motion_fx_translateY_affectedRange": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": {
+                                        "start": 51,
+                                        "end": 77
+                                    }
+                                },
+                                "motion_fx_translateX_speed": {
+                                    "unit": "px",
+                                    "size": 1.7,
+                                    "sizes": []
+                                },
+                                "motion_fx_translateX_affectedRange": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": {
+                                        "start": 41,
+                                        "end": 73
+                                    }
+                                },
+                                "_animation": "fadeIn",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": -1,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": -138,
+                                    "unit": "px"
+                                },
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-phone",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "4f706ac"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "35f10eba",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/closeup-shot-of-beautiful-woman-touching-her-lips.jpg",
+                                    "id": 249
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_z_index": 5,
+                                "motion_fx_motion_fx_scrolling": "yes",
+                                "motion_fx_translateY_direction": "negative",
+                                "motion_fx_translateY_affectedRange": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": {
+                                        "start": 78,
+                                        "end": 100
+                                    }
+                                },
+                                "_animation": "fadeIn",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": -1,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 270,
+                                    "unit": "px"
+                                },
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-phone",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "6c650c2"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2d3b7ced",
+            "settings": {
+                "structure": "30",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "premium_eq_height_type": "custom",
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "0ec6f1a"
+                    }
+                ]
+            },
+            "elements": [
+                {
+                    "id": "3c63067b",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 58.595,
+                        "animation": "fadeIn",
+                        "animation_delay": 500,
+                        "content_position": "center",
+                        "_inline_size_tablet": 100,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "927f61b"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "447431c6",
+                            "settings": {
+                                "title": "Faqs",
+                                "title_color": "#FFFFFF",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "fb4bda1"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6d1e15e5",
+                            "settings": {
+                                "eael_adv_accordion_toggle_icon_postion": "",
+                                "eael_adv_accordion_tab": [
+                                    {
+                                        "eael_adv_accordion_tab_title": "How do I book an appointment?",
+                                        "_id": "be8af31",
+                                        "eael_adv_accordion_tab_default_active": "yes",
+                                        "eael_adv_accordion_tab_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p><p><br \/>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+                                        "eael_adv_accordion_tab_icon_show": ""
+                                    },
+                                    {
+                                        "eael_adv_accordion_tab_title": "Do you offer vegan products?",
+                                        "_id": "3a34bec",
+                                        "eael_adv_accordion_tab_icon_show": ""
+                                    },
+                                    {
+                                        "eael_adv_accordion_tab_title": "What if I have an skin allergy?",
+                                        "_id": "e678f8c",
+                                        "eael_adv_accordion_tab_content": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, neque qui velit. Magni dolorum quidem ipsam eligendi, totam, facilis laudantium cum accusamus ullam voluptatibus commodi numquam, error, est. Ea, consequatur.<\/p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p><p>\u00a0<\/p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+                                        "eael_adv_accordion_tab_icon_show": ""
+                                    }
+                                ],
+                                "eael_adv_accordion_tab_title_typography_typography": "custom",
+                                "eael_adv_accordion_tab_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "eael_adv_accordion_tab_distance": {
+                                    "unit": "px",
+                                    "size": 8,
+                                    "sizes": []
+                                },
+                                "eael_adv_accordion_tab_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "eael_adv_accordion_tab_bgtype_background": "classic",
+                                "eael_adv_accordion_tab_bgtype_hover_background": "classic",
+                                "eael_adv_accordion_tab_bgtype_active_background": "classic",
+                                "eael_adv_accordion_content_border_border": "solid",
+                                "eael_adv_accordion_content_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "eael_adv_accordion_tab_bgtype_color": "",
+                                    "eael_adv_accordion_tab_bgtype_hover_color": "",
+                                    "eael_adv_accordion_tab_bgtype_active_color": "",
+                                    "adv_accordion_content_text_color": "",
+                                    "eael_adv_accordion_tab_text_color_hover": "",
+                                    "eael_adv_accordion_tab_text_color_active": ""
+                                },
+                                "eael_adv_accordion_tab_bgtype_color": "#FFFFFF",
+                                "eael_adv_accordion_tab_bgtype_hover_color": "#C89313",
+                                "eael_adv_accordion_tab_text_color_hover": "#FFFFFF",
+                                "eael_adv_accordion_tab_bgtype_active_color": "#C89313",
+                                "eael_adv_accordion_tab_text_color_active": "#FFFFFF",
+                                "adv_accordion_content_text_color": "#C6BFBF",
+                                "eael_adv_accordion_tab_icon_size": {
+                                    "unit": "px",
+                                    "size": 19,
+                                    "sizes": []
+                                },
+                                "eael_adv_accordion_tab_toggle_icon_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "b3afa7e"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "eael-adv-accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "574a4975",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 9.552,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "d5438be"
+                            }
+                        ]
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "74dcc819",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 31.49,
+                        "content_position": "center",
+                        "background_background": "classic",
+                        "__globals__": {
+                            "background_color": ""
+                        },
+                        "_inline_size_tablet": 100,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "4b799f1"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "15ae7516",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/beautiful-woman-with-professional-make-up.jpg",
+                                    "id": 256
+                                },
+                                "title_text": "Get in Touch",
+                                "description_text": "Treat your makeup like jewelry for the face. Play with colors, shapes, structure \u2013 it can transform you.",
+                                "title_size": "h4",
+                                "image_size": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "text_align": "left",
+                                "_animation": "fadeIn",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "54c8e02"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5f2414f5",
+                            "settings": {
+                                "text": "Contact",
+                                "align": "left",
+                                "_animation": "fadeIn",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "9331442"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "eael_ext_toc_title": "Table of Contents",
+        "background_background": "classic",
+        "__globals__": {
+            "background_color": "globals\/colors?id=primary"
+        }
+    }
+}

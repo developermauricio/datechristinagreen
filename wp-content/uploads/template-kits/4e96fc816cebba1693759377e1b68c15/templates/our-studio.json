@@ -1,0 +1,609 @@
+{
+    "version": "0.4",
+    "title": "Our Studio",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "6559f60a",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "70",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "-90",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7332f027",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "animation_delay": 500,
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "48cc7fbf",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/young-african-woman-with-afro-hairstyle-and-golden-shiny-makeup-studio-shot-.jpg",
+                                    "id": 329
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "1200",
+                                    "height": "400"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "motion_fx_motion_fx_scrolling": "yes",
+                                "motion_fx_translateY_effect": "yes",
+                                "motion_fx_translateY_direction": "negative",
+                                "motion_fx_translateY_speed": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "motion_fx_translateY_affectedRange": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": {
+                                        "start": 33,
+                                        "end": 76
+                                    }
+                                },
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6a99776c",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 105,
+                                    "sizes": []
+                                },
+                                "_z_index": 10,
+                                "motion_fx_motion_fx_scrolling": "yes",
+                                "motion_fx_translateY_effect": "yes",
+                                "motion_fx_translateY_affectedRange": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": {
+                                        "start": 41,
+                                        "end": 68
+                                    }
+                                },
+                                "_background_background": "classic",
+                                "_mask_switch": "yes",
+                                "_mask_shape": "custom",
+                                "_mask_image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/blur.png",
+                                    "id": 206
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": 965,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 356,
+                                    "unit": "px"
+                                },
+                                "__globals__": {
+                                    "_background_color": ""
+                                },
+                                "_animation": "fadeIn",
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 164
+                                },
+                                "_background_color": "#C89313"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "45f63cc4",
+                            "settings": {
+                                "title": "Our Studio",
+                                "header_size": "h1",
+                                "_animation": "fadeIn",
+                                "align": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "100",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6882cea2",
+                            "settings": {
+                                "content_width": {
+                                    "unit": "px",
+                                    "size": 744,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "2fc58029",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "482bc38a",
+                                            "settings": {
+                                                "title": "Makeup is a weapon that helps you express who you are",
+                                                "header_size": "h5",
+                                                "align": "center",
+                                                "_animation": "fadeIn"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6880ad37",
+                                            "settings": {
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 20,
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "editor": "<p>Ut mi sapien, hendrerit vehicula diam sollicitudin, iaculis commodo augue. Sed feugiat et ligula quis lobortis. Vestibulum condimentum dapibus aliquam. Vivamus sed ante purus. Nullam ac commodo ex.<\/p>",
+                                                "_animation": "fadeIn",
+                                                "align": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "416420b",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "gap": "extended",
+                "background_background": "classic",
+                "animation": "none",
+                "__globals__": {
+                    "background_color": ""
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.62,
+                    "sizes": []
+                },
+                "custom_height": {
+                    "unit": "px",
+                    "size": 526,
+                    "sizes": []
+                },
+                "structure": "30"
+            },
+            "elements": [
+                {
+                    "id": "6514e7a3",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 47,
+                        "animation": "fadeIn"
+                    },
+                    "elements": [
+                        {
+                            "id": "54b34d11",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/make-up-set.jpg",
+                                    "id": 330
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "600",
+                                    "height": "400"
+                                },
+                                "link_to": "file",
+                                "open_lightbox": "yes",
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "a09c602",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 5.637
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "c1b8c51",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 47
+                    },
+                    "elements": [
+                        {
+                            "id": "541d54f",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/doing-dramatic-makeup-to-man.jpg",
+                                    "id": 331
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "600",
+                                    "height": "400"
+                                },
+                                "link_to": "file",
+                                "open_lightbox": "yes",
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "14fb2a00",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "gap": "extended",
+                "background_background": "classic",
+                "animation": "none",
+                "__globals__": {
+                    "background_color": ""
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.62,
+                    "sizes": []
+                },
+                "structure": "30"
+            },
+            "elements": [
+                {
+                    "id": "505c74d5",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 46.139,
+                        "animation": "fadeIn",
+                        "content_position": "center",
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "4b0a7c72",
+                            "settings": {
+                                "title": "Inspired by Luxury, Artistry, and Beauty",
+                                "_animation": "fadeIn",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4b9da228",
+                            "settings": {
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "editor": "<p><strong>Makeup is not a mask that covers up your beauty; it's a weapon that helps you express who you are.<\/strong><\/p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non est orci. Sed vitae nisl libero.<\/p><p>Ut mi sapien, hendrerit vehicula diam sollicitudin, iaculis commodo augue. Sed feugiat et ligula quis lobortis. Vestibulum condimentum dapibus aliquam. Vivamus sed ante purus. Nullam ac commodo ex.<\/p>",
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "fc30bae",
+                            "settings": {
+                                "text": "about Us"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5469de9b",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 6.498
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "38b76132",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 47,
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "29e34ad4",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/futuristic-make-up.jpg",
+                                    "id": 332
+                                },
+                                "image_size": "medium_large",
+                                "link_to": "file",
+                                "open_lightbox": "yes",
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "40b7a98c",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "gap": "extended",
+                "background_background": "classic",
+                "animation": "none",
+                "__globals__": {
+                    "background_color": ""
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.62,
+                    "sizes": []
+                },
+                "custom_height": {
+                    "unit": "px",
+                    "size": 526,
+                    "sizes": []
+                },
+                "structure": "30"
+            },
+            "elements": [
+                {
+                    "id": "57a79cdf",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 47,
+                        "animation": "fadeIn"
+                    },
+                    "elements": [
+                        {
+                            "id": "7c33f80c",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/cosmetics-products-for-makeup-are-on-display-.jpg",
+                                    "id": 334
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "600",
+                                    "height": "400"
+                                },
+                                "link_to": "file",
+                                "open_lightbox": "yes",
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "ee629f7",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 5.507
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "236c8b4f",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 46.825
+                    },
+                    "elements": [
+                        {
+                            "id": "346a3558",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/close-up-beauty-portrait-of-girl-makeup-artist-paints-with-brush-brunette-with-brown-eyes.jpg",
+                                    "id": 333
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "600",
+                                    "height": "400"
+                                },
+                                "link_to": "file",
+                                "open_lightbox": "yes",
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "eael_ext_toc_title": "Table of Contents",
+        "background_background": "classic",
+        "__globals__": {
+            "background_color": "globals\/colors?id=primary"
+        }
+    }
+}

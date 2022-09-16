@@ -1,0 +1,712 @@
+{
+    "version": "0.4",
+    "title": "Our Team",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "513835ff",
+            "settings": {
+                "structure": "30",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "-90",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "aa26a86"
+                    }
+                ]
+            },
+            "elements": [
+                {
+                    "id": "2434ed94",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 40.885,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "0a0a197"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "1f03f7c9",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/makeup-artist-glues-eyelashes.jpg",
+                                    "id": 313
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "700",
+                                    "height": "700"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "motion_fx_motion_fx_scrolling": "yes",
+                                "motion_fx_translateY_effect": "yes",
+                                "motion_fx_translateY_direction": "negative",
+                                "motion_fx_translateY_speed": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "motion_fx_translateY_affectedRange": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": {
+                                        "start": 33,
+                                        "end": 76
+                                    }
+                                },
+                                "_animation": "fadeIn",
+                                "motion_fx_devices": [
+                                    "desktop"
+                                ],
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "5aca4d1"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "49556fc1",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 105,
+                                    "sizes": []
+                                },
+                                "_z_index": 10,
+                                "motion_fx_motion_fx_scrolling": "yes",
+                                "motion_fx_translateY_effect": "yes",
+                                "motion_fx_translateY_affectedRange": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": {
+                                        "start": 41,
+                                        "end": 68
+                                    }
+                                },
+                                "_background_background": "classic",
+                                "_mask_switch": "yes",
+                                "_mask_shape": "custom",
+                                "_mask_image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/blur.png",
+                                    "id": 206
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": -201,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 349,
+                                    "unit": "px"
+                                },
+                                "__globals__": {
+                                    "_background_color": ""
+                                },
+                                "_animation": "fadeIn",
+                                "_background_color": "#C89313",
+                                "motion_fx_devices": [
+                                    "desktop"
+                                ],
+                                "hide_mobile": "hidden-phone",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "eafa087"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "2fe9db1c",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 6.779,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "fa4b3c3"
+                            }
+                        ]
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "ae0f82b",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 51.799,
+                        "animation_delay": 500,
+                        "content_position": "center",
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "79e648b"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "158c0ffc",
+                            "settings": {
+                                "title": "Our Team",
+                                "header_size": "h1",
+                                "_animation": "fadeIn",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "c562746"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "61f5cbe8",
+                            "settings": {
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "editor": "<p><strong>Makeup is not a mask that covers up your beauty; it's a weapon that helps you express who you are from the inside.<\/strong><\/p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non est orci. Sed vitae nisl libero.<\/p><p>Ut mi sapien, hendrerit vehicula diam sollicitudin, iaculis commodo augue. Sed feugiat et ligula quis lobortis. Vestibulum condimentum dapibus aliquam. Vivamus sed ante purus. Nullam ac commodo ex.<\/p>",
+                                "_animation": "fadeIn",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "e1ad93b"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2dc633e7",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "gap": "extended",
+                "background_background": "classic",
+                "animation": "none",
+                "__globals__": {
+                    "background_color": ""
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.62,
+                    "sizes": []
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "be73fce"
+                    }
+                ]
+            },
+            "elements": [
+                {
+                    "id": "37376286",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "animation": "fadeIn",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "20",
+                            "bottom": "0",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "62745b6"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "781c3899",
+                            "settings": {
+                                "multiple": "yes",
+                                "premium_person_style": "style2",
+                                "thumbnail_size": "custom",
+                                "thumbnail_custom_dimension": {
+                                    "width": "400",
+                                    "height": "400"
+                                },
+                                "premium_person_image_width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "premium_person_name_heading": "h3",
+                                "premium_person_title_heading": "h5",
+                                "spacing": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "10",
+                                    "isLinked": false
+                                },
+                                "premium_person_image": {
+                                    "id": "1006",
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2022\/03\/portrait-of-male-model-wearing-sunglasses.jpg"
+                                },
+                                "premium_person_name": "John Frank",
+                                "premium_person_title": "Makeup Artist",
+                                "premium_person_content": "Makeup is not a mask that covers up your beauty; it's a weapon that helps you express who you are from the inside.",
+                                "premium_person_facebook": "#",
+                                "premium_person_twitter": "#",
+                                "premium_person_instagram": "#",
+                                "premium_person_dribbble": "#",
+                                "multiple_persons": [
+                                    {
+                                        "multiple_name": "John Frank",
+                                        "_id": "b62a671",
+                                        "multiple_image": {
+                                            "id": "1007",
+                                            "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2022\/03\/face-of-handsome-man-thinking-with-sunglasses.jpg"
+                                        },
+                                        "multiple_title": "Makeup Artist",
+                                        "multiple_description": "Makeup is not a mask that covers up your beauty; it's a weapon that helps you express who you are.",
+                                        "multiple_facebook": "#",
+                                        "multiple_twitter": "#",
+                                        "multiple_linkedin": "#",
+                                        "multiple_instagram": "#",
+                                        "multiple_dribbble": ""
+                                    },
+                                    {
+                                        "multiple_name": "Mary Jane",
+                                        "multiple_image": {
+                                            "id": 1009,
+                                            "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2022\/03\/make-up-glamour-portrait-of-beautiful-woman-model-with-fresh-makeup-and-romantic-wavy-hairstyle-1-1.jpg"
+                                        },
+                                        "multiple_title": "Makeup Artist",
+                                        "multiple_description": "Makeup is not a mask that covers up your beauty; it's a weapon that helps you express who you are.",
+                                        "multiple_facebook": "#",
+                                        "multiple_twitter": "#",
+                                        "multiple_linkedin": "#",
+                                        "multiple_instagram": "#",
+                                        "multiple_dribbble": "",
+                                        "_id": "cf047e2"
+                                    },
+                                    {
+                                        "multiple_name": "Ludila Doe",
+                                        "multiple_image": {
+                                            "id": 1011,
+                                            "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2022\/03\/model-with-bright-makeup-1.jpg"
+                                        },
+                                        "multiple_title": "Makeup Artist",
+                                        "multiple_description": "Makeup is not a mask that covers up your beauty; it's a weapon that helps you express who you are.",
+                                        "multiple_facebook": "#",
+                                        "multiple_twitter": "#",
+                                        "multiple_linkedin": "#",
+                                        "multiple_instagram": "#",
+                                        "multiple_dribbble": "",
+                                        "_id": "1b6ef21"
+                                    },
+                                    {
+                                        "multiple_name": "Ludila Doe",
+                                        "multiple_image": {
+                                            "id": 1013,
+                                            "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2022\/03\/make-up-glamour-portrait-of-beautiful-woman-model-with-fresh-makeup-and-romantic-wavy-hairstyle-1-1-2.jpg"
+                                        },
+                                        "multiple_title": "Makeup Artist",
+                                        "multiple_description": "Makeup is not a mask that covers up your beauty; it's a weapon that helps you express who you are.",
+                                        "multiple_facebook": "#",
+                                        "multiple_twitter": "#",
+                                        "multiple_linkedin": "#",
+                                        "multiple_instagram": "#",
+                                        "multiple_dribbble": "",
+                                        "_id": "8377ac9"
+                                    }
+                                ],
+                                "carousel": "yes",
+                                "css_filters_css_filter": "custom",
+                                "css_filters_saturate": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "hover_css_filters_css_filter": "custom",
+                                "description_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "premium_person_social_size": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "premium_person_social_padding": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "premium_person_content_background_color": "",
+                                "arrow_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "arrow_padding": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "premium_person_content_background_color": "",
+                                    "premium_person_title_color": "",
+                                    "premium_person_description_color": "",
+                                    "premium_person_social_color": "",
+                                    "premium_person_social_background": "",
+                                    "premium_person_social_hover_background": "",
+                                    "arrow_hover_background": "",
+                                    "arrow_color": "",
+                                    "arrow_background": ""
+                                },
+                                "_animation": "fadeIn",
+                                "premium_person_social_color": "#FFFFFF",
+                                "premium_person_social_background": "#C89313",
+                                "premium_person_social_hover_background": "#0C0805",
+                                "description_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "arrow_hover_background": "#C89313",
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "5503c48"
+                                    }
+                                ],
+                                "custom_height": {
+                                    "unit": "px",
+                                    "size": 400,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "premium-addon-person",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2a155b37",
+            "settings": {
+                "structure": "20",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/eyeshadows-makeup-brush-and-falce-lashes-make-up-artist-beauty-salon-beauty-blog.jpg",
+                    "id": 189
+                },
+                "background_position": "center left",
+                "background_size": "cover",
+                "background_motion_fx_motion_fx_scrolling": "yes",
+                "background_motion_fx_scale_effect": "yes",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.95,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=primary"
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "d07642f"
+                    }
+                ]
+            },
+            "elements": [
+                {
+                    "id": "7e9ab1e1",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "animation": "fadeIn",
+                        "animation_delay": 200,
+                        "content_position": "center",
+                        "_inline_size_tablet": 100,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "8bb74fa"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "1ea592e1",
+                            "settings": {
+                                "title": "Join our Team",
+                                "align": "left",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "7f84e74"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "55ecd8fc",
+                            "settings": {
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "editor": "<p>Sed feugiat et ligula quis lobortis. Vestibulum condimentum dapibus aliquam. Vivamus sed ante purus. Nullam ac commodo ex lorem ipsum loret.<\/p>",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "6e30f15"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1c785fb5",
+                            "settings": {
+                                "text": "Apply",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "33ebd24"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "74a56d1f",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "819fa63"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "23a883a",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/imgbeauty2.png",
+                                    "id": 323
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": 12,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": -215,
+                                    "unit": "px"
+                                },
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-phone",
+                                "image_size": "medium_large",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "2d364f8"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "eael_ext_toc_title": "Table of Contents",
+        "background_background": "classic",
+        "__globals__": {
+            "background_color": "globals\/colors?id=primary"
+        }
+    }
+}

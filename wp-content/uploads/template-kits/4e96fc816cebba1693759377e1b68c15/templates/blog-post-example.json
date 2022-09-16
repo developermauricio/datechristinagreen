@@ -1,0 +1,317 @@
+{
+    "version": "0.4",
+    "title": "Blog Post example",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "1a076817",
+            "settings": {
+                "animation": "fadeIn"
+            },
+            "elements": [
+                {
+                    "id": "6d781c3c",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "1b3f5d4a",
+                            "settings": {
+                                "title": "Blog Post Title",
+                                "header_size": "h1"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2af4ed88",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "7e1f4489",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "4da42881",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "547bed07",
+                            "settings": {
+                                "structure": "30",
+                                "animation": "fadeIn"
+                            },
+                            "elements": [
+                                {
+                                    "id": "4b101f41",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 43.333
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "a48ba10",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/art-makeup.jpg",
+                                                    "id": 352
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "25ab4d76",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 5.855
+                                    },
+                                    "elements": [],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "5252950c",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 50.145,
+                                        "content_position": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "699df968",
+                                            "settings": {
+                                                "editor": "<h3>Choose the right products<\/h3><p>Orci eu lobortis elementum nibh tellus. Sed egestas egestas fringilla phasellus faucibus scelerisque. Vulputate ut pharetra sit amet aliquam. Luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Arcu dui vivamus a lorem.<\/p>"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "26ad02cb",
+                            "settings": {
+                                "structure": "30",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "80",
+                                    "right": 0,
+                                    "bottom": "80",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "animation": "fadeIn"
+                            },
+                            "elements": [
+                                {
+                                    "id": "64765da6",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 10
+                                    },
+                                    "elements": [],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "3370b4ff",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 79.332
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2506e0bd",
+                                            "settings": {
+                                                "blockquote_skin": "clean",
+                                                "alignment": "center",
+                                                "blockquote_content": "\u201cI believe all women are pretty without makeup \u2013 but with the right makeup can be pretty powerful.\u201d",
+                                                "author_name": "Bobbi Brown",
+                                                "tweet_button": "",
+                                                "tweet_button_label": "Tweet",
+                                                "content_text_color": "#FFFFFF",
+                                                "content_typography_typography": "custom",
+                                                "content_typography_font_family": "Italiana",
+                                                "content_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 32,
+                                                    "sizes": []
+                                                },
+                                                "content_typography_font_weight": "600",
+                                                "content_typography_font_style": "italic",
+                                                "content_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.4,
+                                                    "sizes": []
+                                                },
+                                                "author_text_color": "#C89313",
+                                                "author_typography_typography": "custom",
+                                                "author_typography_font_weight": "600",
+                                                "author_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.3,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "content_text_color": "",
+                                                    "author_text_color": ""
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "blockquote",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "10ac674c",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 10
+                                    },
+                                    "elements": [],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "70a9807c",
+                            "settings": {
+                                "structure": "30",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "7933b6fd",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 59.581
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7d353632",
+                                            "settings": {
+                                                "editor": "<h3>Find your Colour Season<\/h3><p>Lobortis elementum nibh tellus molestie nunc non blandit. Fermentum dui faucibus in ornare. Vestibulum mattis ullamcorper velit\u00a0<\/p><p>Orci eu lobortis elementum nibh tellus. Sed egestas egestas fringilla phasellus faucibus scelerisque. Vulputate ut pharetra sit amet aliquam. Luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Arcu dui vivamus .<\/p><h4>Are you a warm or cold tone?<\/h4><p>Integer enim neque volutpat ac tincidunt vitae semper quis lectus. Est velit egestas dui id ornare arcu odio. Viverra ipsum nunc aliquet bibendum enim. Est velit egestas dui id ornare.<\/p><p>Tempus urna et pharetra pharetra massa massa ultricies. Placerat duis ultricies lacus sed turpis tincidunt id aliquet risus. Ut enim blandit volutpat maecenas volutpat blandit aliquam. Pulvinar nequ<\/p>",
+                                                "_animation": "fadeIn"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "34a42623",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": 6.752
+                                    },
+                                    "elements": [],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "6c66f794",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7bb2381c",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/salon.ingridtemplates.com\/wp-content\/uploads\/sites\/20\/2021\/05\/beautiful-girl-with-flowers-pastel-colors-perfect-face-skin.jpg",
+                                                    "id": 414
+                                                },
+                                                "_animation": "fadeIn"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "eael_ext_toc_title": "Table of Contents",
+        "background_background": "classic",
+        "background_color": "#0C0805",
+        "__globals__": {
+            "background_color": ""
+        }
+    }
+}
